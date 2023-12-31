@@ -25,8 +25,11 @@ The application follows these steps to provide responses to your questions:
 ------------
 
 
-1. /file [POST]
-   Get the file as an input and extract the text data and loads into the model.
+1. /file [POST]    Get the file as an input and extract the text data and loads into the model.
+
+2. /default_csv [GET]   Loads the default CSV by taking filename as query parameter.
+
+3. /ask_question [POST]    Takes question as an input and input question into ML model and return ML models output as an answer(result).
 
 
    
