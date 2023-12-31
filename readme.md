@@ -41,6 +41,19 @@ The application follows these steps to provide responses to your questions:
 
 2. Each file is put as an input individually.
 
+
+
+## Challenges faced building Backend
+------------
+
+
+1. Selecting model for building application.
+
+2. Text length limit in feeding data to model.
+
+3. Integrating with frontend.
+
+
 ## Improvements
 ------------
 
